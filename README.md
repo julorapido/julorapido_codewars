@@ -15,6 +15,6 @@ here is some of my codewars solutions
 
 
 
-| Problem | Difficulty     | Language|
-| :--------------| | :------- | :--------------|
+| Problem | Difficulty | Language |
+| -------------- | ------- | -------------- |
 | [**MAKE A SPIRAL**](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) | `3` | **C**|
