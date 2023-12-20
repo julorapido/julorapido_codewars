@@ -1,7 +1,7 @@
 
 # Codewars Solutions
 
-here is some of my codewars solutions 
+here is some of my `codewars solutions `
 
 
 
