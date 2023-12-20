@@ -1,6 +1,21 @@
-	https://camo.githubusercontent.com/d3dd4b287f8297c…d626c61636b2d6c617267652d32346139643335352e706e67
+# Codewars Solutions
 
-# julorapido_codewars
-some of my kata solutions for codewars
+here is some of my codewars solutions 
 
-my solutions are made to be unreadable 😈😇
+
+
+**Languages :** C, TypeScript, JS
+
+![Logo](https://www.codewars.com/users/juloo/badges/large
+)
+
+
+## API Reference
+
+
+
+| Problem | Difficulty     | Language|
+| :--------------| | :------- | :--------------|
+| [**MAKE A SPIRAL**](https://www.codewars.com/kata/534e01fbbb17187c7e0000c6) | `3` | **C**|
+
+
