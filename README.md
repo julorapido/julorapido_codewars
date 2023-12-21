@@ -11,7 +11,7 @@ here is some of my `codewars solutions `
 )
 
 
-## API Reference
+## Katas
 
 
 
